@@ -1,0 +1,25 @@
+{
+  "announcementsList": [
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut hendrerit elit, id accumsan leo. Vivamus luctus bibendum placerat. Aliquam semper dignissim ligula, commodo ornare lacus fermentum eget. Nulla gravida urna et eleifend porttitor. Duis blandit ex sed ante molestie malesuada. Donec a molestie orci. Aliquam fermentum posuere ipsum, quis convallis magna tincidunt eu. Duis felis mi, feugiat eu vestibulum id, sagittis ut ex. Morbi nec felis orci. Nulla in leo posuere mauris eleifend porta at vel felis. Nullam sed est ac dolor maximus efficitur ut sit amet leo. Integer rutrum sem augue, nec ultrices sapien pulvinar quis. Duis interdum vel augue eu consectetur. Praesent laoreet vitae quam nec lobortis. Curabitur dapibus, lacus eget blandit mattis, est dui pulvinar neque, in viverra erat tortor in magna.",
+      "categories": "Announcement"
+    },
+    {
+      "id": 2,
+      "email": "eve.holt@reqres.in",
+      "title": "Cras ut hendrerit elit",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut hendrerit elit, id accumsan leo. Vivamus luctus bibendum placerat. Aliquam semper dignissim ligula, commodo ornare lacus fermentum eget. Nulla gravida urna et eleifend porttitor. Duis blandit ex sed ante molestie malesuada. Donec a molestie orci. Aliquam fermentum posuere ipsum, quis convallis magna tincidunt eu. Duis felis mi, feugiat eu vestibulum id, sagittis ut ex. Morbi nec felis orci. Nulla in leo posuere mauris eleifend porta at vel felis. Nullam sed est ac dolor maximus efficitur ut sit amet leo. Integer rutrum sem augue, nec ultrices sapien pulvinar quis. Duis interdum vel augue eu consectetur. Praesent laoreet vitae quam nec lobortis. Curabitur dapibus, lacus eget blandit mattis, est dui pulvinar neque, in viverra erat tortor in magna.",
+      "categories": "Promotions",
+      "comments": [
+        {
+          "user": "eve.holt@reqres.in",
+          "message": "sddsfs",
+          "commentedAt": "28/9/2023 - 15:52"
+        }
+      ]
+    }
+  ]
+}
